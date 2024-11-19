@@ -1,0 +1,249 @@
+imdb_id,imdb_rank,title,year,runtime,rated,imdb_rating,production
+tt0111161,0,The Shawshank Redemption,1994,142,R,9.3,N/A
+tt0068646,1,The Godfather,1972,175,R,9.2,N/A
+tt0468569,2,The Dark Knight,2008,152,PG-13,9.0,N/A
+tt0071562,3,The Godfather Part II,1974,202,R,9.0,N/A
+tt0050083,4,12 Angry Men,1957,96,Approved,9.0,N/A
+tt0167260,5,The Lord of the Rings: The Return of the King,2003,201,PG-13,9.0,N/A
+tt0108052,6,Schindler's List,1993,195,R,9.0,N/A
+tt0110912,7,Pulp Fiction,1994,154,R,8.9,N/A
+tt0120737,8,The Lord of the Rings: The Fellowship of the Ring,2001,178,PG-13,8.9,N/A
+tt0060196,9,"The Good, the Bad and the Ugly",1966,178,R,8.8,N/A
+tt0109830,10,Forrest Gump,1994,142,PG-13,8.8,N/A
+tt0167261,11,The Lord of the Rings: The Two Towers,2002,179,PG-13,8.8,N/A
+tt0137523,12,Fight Club,1999,139,R,8.8,N/A
+tt1375666,13,Inception,2010,148,PG-13,8.8,N/A
+tt0080684,14,Star Wars: Episode V - The Empire Strikes Back,1980,124,PG,8.7,N/A
+tt0133093,15,The Matrix,1999,136,R,8.7,N/A
+tt0099685,16,Goodfellas,1990,145,R,8.7,N/A
+tt0073486,17,One Flew Over the Cuckoo's Nest,1975,133,R,8.7,N/A
+tt0816692,18,Interstellar,2014,169,PG-13,8.7,N/A
+tt0114369,19,Se7en,1995,127,R,8.6,N/A
+tt0038650,20,It's a Wonderful Life,1946,130,PG,8.6,N/A
+tt0047478,21,Seven Samurai,1954,207,Not Rated,8.6,N/A
+tt0102926,22,The Silence of the Lambs,1991,118,R,8.6,N/A
+tt0120815,23,Saving Private Ryan,1998,169,R,8.6,N/A
+tt0317248,24,City of God,2002,130,R,8.6,N/A
+tt0120689,25,The Green Mile,1999,189,R,8.6,N/A
+tt0118799,26,Life Is Beautiful,1997,116,PG-13,8.6,N/A
+tt0103064,27,Terminator 2: Judgment Day,1991,137,R,8.6,N/A
+tt0076759,28,Star Wars: Episode IV - A New Hope,1977,121,PG,8.6,N/A
+tt0088763,29,Back to the Future,1985,116,PG,8.5,N/A
+tt0245429,30,Spirited Away,2001,124,PG,8.6,N/A
+tt0253474,31,The Pianist,2002,150,R,8.5,N/A
+tt6751668,32,Parasite,2019,132,R,8.5,N/A
+tt0054215,33,Psycho,1960,109,R,8.5,N/A
+tt0172495,34,Gladiator,2000,155,R,8.5,N/A
+tt0110357,35,The Lion King,1994,88,G,8.5,N/A
+tt0407887,36,The Departed,2006,151,R,8.5,N/A
+tt9362722,37,Spider-Man: Across the Spider-Verse,2023,140,PG,8.6,N/A
+tt0095327,38,Grave of the Fireflies,1988,88,Not Rated,8.5,N/A
+tt2582802,39,Whiplash,2014,106,R,8.5,N/A
+tt0120586,40,American History X,1998,119,R,8.5,N/A
+tt0110413,41,Léon: The Professional,1994,110,R,8.5,N/A
+tt0482571,42,The Prestige,2006,130,PG-13,8.5,N/A
+tt0056058,43,Harakiri,1962,133,Not Rated,8.6,N/A
+tt0034583,44,Casablanca,1942,102,PG,8.5,N/A
+tt0114814,45,The Usual Suspects,1995,106,R,8.5,N/A
+tt1675434,46,The Intouchables,2011,112,R,8.5,N/A
+tt0095765,47,Cinema Paradiso,1988,174,PG,8.5,N/A
+tt15239678,48,Dune: Part Two,2024,166,PG-13,8.5,N/A
+tt0027977,49,Modern Times,1936,87,G,8.5,N/A
+tt0078748,50,Alien,1979,117,R,8.5,N/A
+tt0047396,51,Rear Window,1954,112,PG,8.5,N/A
+tt0064116,52,Once Upon a Time in the West,1968,166,PG-13,8.5,N/A
+tt1853728,53,Django Unchained,2012,165,R,8.5,N/A
+tt0021749,54,City Lights,1931,87,G,8.5,N/A
+tt0078788,55,Apocalypse Now,1979,147,R,8.4,N/A
+tt0209144,56,Memento,2000,113,R,8.4,N/A
+tt0910970,57,WALL·E,2008,98,G,8.4,N/A
+tt0405094,59,The Lives of Others,2006,137,R,8.4,N/A
+tt23849204,60,12th Fail,2023,147,N/A,8.8,N/A
+tt0043014,61,Sunset Boulevard,1950,110,Approved,8.4,N/A
+tt4154756,62,Avengers: Infinity War,2018,149,PG-13,8.4,N/A
+tt0050825,63,Paths of Glory,1957,88,Approved,8.4,N/A
+tt4633694,64,Spider-Man: Into the Spider-Verse,2018,117,PG,8.4,N/A
+tt0051201,65,Witness for the Prosecution,1957,116,Approved,8.4,N/A
+tt0081505,66,The Shining,1980,146,R,8.4,N/A
+tt0032553,67,The Great Dictator,1940,125,G,8.4,N/A
+tt0090605,68,Aliens,1986,137,R,8.4,N/A
+tt0361748,69,Inglourious Basterds,2009,153,R,8.4,N/A
+tt1345836,70,The Dark Knight Rises,2012,164,PG-13,8.4,N/A
+tt2380307,71,Coco,2017,105,PG,8.4,N/A
+tt0086879,72,Amadeus,1984,160,PG,8.4,N/A
+tt0114709,73,Toy Story,1995,81,G,8.3,N/A
+tt0057012,74,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,95,PG,8.3,N/A
+tt0364569,75,Oldboy,2003,120,R,8.3,N/A
+tt0169547,76,American Beauty,1999,122,R,8.3,N/A
+tt4154796,77,Avengers: Endgame,2019,181,PG-13,8.4,N/A
+tt0082096,78,Das Boot,1981,149,R,8.4,N/A
+tt0119217,79,Good Will Hunting,1997,126,R,8.3,N/A
+tt0112573,80,Braveheart,1995,178,R,8.3,N/A
+tt0119698,81,Princess Mononoke,1997,133,PG-13,8.3,N/A
+tt5311514,82,Your Name.,2016,106,TV-PG,8.4,N/A
+tt7286456,83,Joker,2019,122,R,8.4,N/A
+tt0057565,84,High and Low,1963,143,Not Rated,8.4,N/A
+tt1187043,85,3 Idiots,2009,170,PG-13,8.4,N/A
+tt0087843,86,Once Upon a Time in America,1984,229,R,8.3,N/A
+tt0045152,87,Singin' in the Rain,1952,103,G,8.3,N/A
+tt8267604,88,Capernaum,2018,126,R,8.4,N/A
+tt0091251,89,Come and See,1985,142,Not Rated,8.4,N/A
+tt0180093,90,Requiem for a Dream,2000,102,NC-17,8.3,N/A
+tt0435761,91,Toy Story 3,2010,103,G,8.3,N/A
+tt0086190,92,Star Wars: Episode VI - Return of the Jedi,1983,131,PG,8.3,N/A
+tt2106476,93,The Hunt,2012,115,R,8.3,N/A
+tt0338013,94,Eternal Sunshine of the Spotless Mind,2004,108,R,8.3,N/A
+tt0044741,95,Ikiru,1952,143,Not Rated,8.3,N/A
+tt0062622,96,2001: A Space Odyssey,1968,149,G,8.3,N/A
+tt0105236,97,Reservoir Dogs,1992,99,R,8.3,N/A
+tt0056172,98,Lawrence of Arabia,1962,227,PG,8.3,N/A
+tt0053604,99,The Apartment,1960,125,Approved,8.3,N/A
+tt1255953,100,Incendies,2010,131,R,8.3,N/A
+tt0086250,101,Scarface,1983,170,R,8.3,N/A
+tt0053125,102,North by Northwest,1959,136,Approved,8.3,N/A
+tt0036775,103,Double Indemnity,1944,107,Approved,8.3,N/A
+tt0033467,104,Citizen Kane,1941,119,PG,8.3,N/A
+tt0022100,105,M,1931,99,Passed,8.3,N/A
+tt0052357,106,Vertigo,1958,128,PG,8.3,N/A
+tt0113277,107,Heat,1995,170,R,8.3,N/A
+tt0093058,108,Full Metal Jacket,1987,116,R,8.2,N/A
+tt15398776,109,Oppenheimer,2023,180,R,8.3,N/A
+tt1049413,110,Up,2009,96,PG,8.3,N/A
+tt0211915,111,Amélie,2001,122,R,8.3,N/A
+tt0066921,112,A Clockwork Orange,1971,136,R,8.2,N/A
+tt0056592,113,To Kill a Mockingbird,1962,129,Approved,8.3,N/A
+tt1832382,114,A Separation,2011,123,PG-13,8.3,N/A
+tt0070735,115,The Sting,1973,129,PG,8.3,N/A
+tt0095016,116,Die Hard,1988,132,R,8.2,N/A
+tt0986264,117,Like Stars on Earth,2007,162,PG,8.3,N/A
+tt0097576,118,Indiana Jones and the Last Crusade,1989,127,PG-13,8.2,N/A
+tt0017136,119,Metropolis,1927,153,Not Rated,8.3,N/A
+tt0208092,120,Snatch,2000,102,R,8.2,N/A
+tt8579674,121,1917,2019,119,R,8.2,N/A
+tt0119488,122,L.A. Confidential,1997,138,R,8.2,N/A
+tt0040522,123,Bicycle Thieves,1948,89,Not Rated,8.3,N/A
+tt0363163,124,Downfall,2004,156,R,8.2,N/A
+tt8503618,125,Hamilton,2020,160,PG-13,8.3,N/A
+tt0075314,126,Taxi Driver,1976,114,R,8.2,N/A
+tt5074352,127,Dangal,2016,161,Not Rated,8.3,N/A
+tt0993846,128,The Wolf of Wall Street,2013,180,R,8.2,N/A
+tt0372784,129,Batman Begins,2005,140,PG-13,8.2,N/A
+tt0059578,130,For a Few Dollars More,1965,132,R,8.2,N/A
+tt6966692,131,Green Book,2018,130,PG-13,8.2,N/A
+tt0053291,132,Some Like It Hot,1959,121,Approved,8.2,N/A
+tt0120382,133,The Truman Show,1998,103,PG,8.2,N/A
+tt0055031,134,Judgment at Nuremberg,1961,179,Approved,8.3,N/A
+tt0012349,135,The Kid,1921,68,Passed,8.2,N/A
+tt10272386,136,The Father,2020,97,PG-13,8.2,N/A
+tt1130884,137,Shutter Island,2010,138,R,8.2,N/A
+tt0042192,138,All About Eve,1950,138,Approved,8.2,N/A
+tt0469494,139,There Will Be Blood,2007,158,R,8.2,N/A
+tt0107290,140,Jurassic Park,1993,127,PG-13,8.2,N/A
+tt0112641,141,Casino,1995,178,R,8.2,N/A
+tt1745960,142,Top Gun: Maverick,2022,130,PG-13,8.2,N/A
+tt0167404,143,The Sixth Sense,1999,107,PG-13,8.2,N/A
+tt0089881,144,Ran,1985,160,R,8.2,N/A
+tt0457430,145,Pan's Labyrinth,2006,118,R,8.2,N/A
+tt0477348,146,No Country for Old Men,2007,122,R,8.2,N/A
+tt0105695,147,Unforgiven,1992,130,R,8.2,N/A
+tt0084787,148,The Thing,1982,109,R,8.2,N/A
+tt0268978,149,A Beautiful Mind,2001,135,PG-13,8.2,N/A
+tt0266697,150,Kill Bill: Vol. 1,2003,111,R,8.2,N/A
+tt29623480,151,The Wild Robot,2024,102,PG,8.5,N/A
+tt0040897,152,The Treasure of the Sierra Madre,1948,126,Approved,8.2,N/A
+tt0055630,153,Yojimbo,1961,110,Not Rated,8.2,N/A
+tt1392214,154,Prisoners,2013,153,R,8.2,N/A
+tt0057115,155,The Great Escape,1963,172,Approved,8.2,N/A
+tt0266543,156,Finding Nemo,2003,100,G,8.2,N/A
+tt0071853,157,Monty Python and the Holy Grail,1975,91,PG,8.2,N/A
+tt0347149,158,Howl's Moving Castle,2004,119,PG,8.2,N/A
+tt0080678,159,The Elephant Man,1980,124,PG,8.2,N/A
+tt0042876,160,Rashomon,1950,88,Not Rated,8.2,N/A
+tt0046912,161,Dial M for Murder,1954,105,PG,8.2,N/A
+tt0031381,162,Gone with the Wind,1939,238,G,8.2,N/A
+tt0071315,163,Chinatown,1974,130,R,8.1,N/A
+tt1305806,164,The Secret in Their Eyes,2009,129,R,8.2,N/A
+tt0120735,165,"Lock, Stock and Two Smoking Barrels",1998,107,R,8.1,N/A
+tt2096673,166,Inside Out,2015,95,PG,8.1,N/A
+tt0434409,167,V for Vendetta,2005,132,R,8.1,N/A
+tt5027774,168,"Three Billboards Outside Ebbing, Missouri",2017,115,R,8.1,N/A
+tt0081398,169,Raging Bull,1980,129,R,8.1,N/A
+tt4729430,170,Klaus,2019,96,PG,8.2,N/A
+tt0117951,171,Trainspotting,1996,93,R,8.1,N/A
+tt0050212,172,The Bridge on the River Kwai,1957,161,PG,8.1,N/A
+tt0264464,173,Catch Me If You Can,2002,141,PG-13,8.1,N/A
+tt0116282,174,Fargo,1996,98,R,8.1,N/A
+tt1291584,175,Warrior,2011,140,PG-13,8.1,N/A
+tt10872600,176,Spider-Man: No Way Home,2021,148,PG-13,8.2,N/A
+tt1205489,177,Gran Torino,2008,116,R,8.1,N/A
+tt1201607,178,Harry Potter and the Deathly Hallows: Part 2,2011,130,PG-13,8.1,N/A
+tt0405159,179,Million Dollar Baby,2004,132,PG-13,8.1,N/A
+tt0096283,180,My Neighbor Totoro,1988,86,G,8.1,N/A
+tt1392190,181,Mad Max: Fury Road,2015,120,R,8.1,N/A
+tt0052618,182,Ben-Hur,1959,212,G,8.1,N/A
+tt0118849,183,Children of Heaven,1997,89,PG,8.2,N/A
+tt0072684,184,Barry Lyndon,1975,185,PG,8.1,N/A
+tt2024544,185,12 Years a Slave,2013,134,R,8.1,N/A
+tt0083658,186,Blade Runner,1982,117,R,8.1,N/A
+tt0112471,187,Before Sunrise,1995,101,R,8.1,N/A
+tt2278388,188,The Grand Budapest Hotel,2014,99,R,8.1,N/A
+tt2119532,189,Hacksaw Ridge,2016,139,R,8.1,N/A
+tt0097165,190,Dead Poets Society,1989,128,PG,8.1,N/A
+tt2267998,191,Gone Girl,2014,149,R,8.1,N/A
+tt0353969,192,Memories of Murder,2003,132,Not Rated,8.1,N/A
+tt0107207,193,In the Name of the Father,1993,133,R,8.1,N/A
+tt0015864,194,The Gold Rush,1925,95,Approved,8.1,N/A
+tt26548265,195,Maharaja,2024,141,N/A,8.5,N/A
+tt0198781,196,"Monsters, Inc.",2001,92,G,8.1,N/A
+tt3011894,197,Wild Tales,2014,122,R,8.1,N/A
+tt0382932,198,Ratatouille,2007,111,G,8.1,N/A
+tt0077416,199,The Deer Hunter,1978,183,R,8.1,N/A
+tt0892769,200,How to Train Your Dragon,2010,98,PG,8.1,N/A
+tt0073195,201,Jaws,1975,124,PG,8.1,N/A
+tt0015324,202,Sherlock Jr.,1924,45,Passed,8.2,N/A
+tt0017925,203,The General,1926,78,Passed,8.1,N/A
+tt0978762,204,Mary and Max,2009,92,Not Rated,8.1,N/A
+tt0047296,205,On the Waterfront,1954,108,Approved,8.1,N/A
+tt0046268,206,The Wages of Fear,1953,156,Not Rated,8.1,N/A
+tt1950186,207,Ford v Ferrari,2019,152,PG-13,8.1,N/A
+tt0050986,208,Wild Strawberries,1957,92,Not Rated,8.1,N/A
+tt0031679,209,Mr. Smith Goes to Washington,1939,129,Approved,8.1,N/A
+tt0041959,210,The Third Man,1949,93,Approved,8.1,N/A
+tt3315342,211,Logan,2017,137,R,8.1,N/A
+tt0075148,212,Rocky,1976,120,PG,8.1,N/A
+tt0046438,213,Tokyo Story,1953,136,Not Rated,8.1,N/A
+tt0118715,214,The Big Lebowski,1998,117,R,8.1,N/A
+tt0050976,215,The Seventh Seal,1957,96,Not Rated,8.1,N/A
+tt3170832,216,Room,2015,118,R,8.1,N/A
+tt1895587,217,Spotlight,2015,129,R,8.1,N/A
+tt0088247,218,The Terminator,1984,107,R,8.1,N/A
+tt0395169,219,Hotel Rwanda,2004,121,PG-13,8.1,N/A
+tt0091763,220,Platoon,1986,120,R,8.1,N/A
+tt0325980,221,Pirates of the Caribbean: The Curse of the Black Pearl,2003,143,PG-13,8.1,N/A
+tt0113247,222,La haine,1995,98,Not Rated,8.1,N/A
+tt15097216,223,Jai Bhim,2021,164,Approved,8.7,N/A
+tt0381681,224,Before Sunset,2004,80,R,8.1,N/A
+tt0019254,225,The Passion of Joan of Arc,1928,114,Passed,8.1,N/A
+tt0036868,226,The Best Years of Our Lives,1946,170,Approved,8.1,N/A
+tt0070047,227,The Exorcist,1973,122,R,8.1,N/A
+tt0049902,228,A Man Escaped,1956,101,Not Rated,8.2,N/A
+tt1979320,229,Rush,2013,123,R,8.1,N/A
+tt0317705,230,The Incredibles,2004,115,PG,8.0,N/A
+tt0032138,231,The Wizard of Oz,1939,102,G,8.1,N/A
+tt0074958,232,Network,1976,121,R,8.1,N/A
+tt0092005,233,Stand by Me,1986,89,R,8.1,N/A
+tt1028532,234,Hachi: A Dog's Tale,2009,93,G,8.1,N/A
+tt0059742,235,The Sound of Music,1965,172,G,8.1,N/A
+tt0476735,236,My Father and My Son,2005,112,Not Rated,8.2,N/A
+tt0035446,237,To Be or Not to Be,1942,99,Approved,8.1,N/A
+tt4016934,238,The Handmaiden,2016,145,Not Rated,8.1,N/A
+tt0758758,239,Into the Wild,2007,148,R,8.1,N/A
+tt0058946,240,The Battle of Algiers,1966,121,Not Rated,8.1,N/A
+tt0129167,241,The Iron Giant,1999,86,PG,8.1,N/A
+tt0032551,242,The Grapes of Wrath,1940,129,Approved,8.1,N/A
+tt0107048,243,Groundhog Day,1993,101,PG,8.0,N/A
+tt0245712,244,Amores Perros,2000,154,R,8.0,N/A
+tt0032976,245,Rebecca,1940,130,Approved,8.1,N/A
+tt1454029,246,The Help,2011,146,PG-13,8.1,N/A
+tt0061512,247,Cool Hand Luke,1967,127,Approved,8.1,N/A
+tt5323662,248,A Silent Voice: The Movie,2016,130,Not Rated,8.1,N/A
