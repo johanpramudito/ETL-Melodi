@@ -1,42 +1,50 @@
 Title,Streaming On,Price
-The Shawshank Redemption,Apple TV,"25.000,00"
+The Shawshank Redemption,Max,Langganan
+The Shawshank Redemption,Apple TV,Langganan
 The Godfather,Netflix,Langganan
 The Godfather,Vidio,Langganan
 The Godfather,Google Play Film & TV,Langganan
 The Godfather,Apple TV,Langganan
-The Dark Knight,Google Play Film & TV,"25.000,00"
-The Dark Knight,Apple TV,"25.000,00"
+The Dark Knight,Max,Langganan
+The Dark Knight,Google Play Film & TV,Langganan
+The Dark Knight,Apple TV,Langganan
 The Godfather Part Ii,Vidio,Langganan
 The Godfather Part Ii,Google Play Film & TV,Langganan
 The Godfather Part Ii,Apple TV,Langganan
 12 Angry Men,Apple TV,"25.000,00"
-The Lord Of The Rings: The Return Of The King,Amazon Prime Video,Langganan
+The Lord Of The Rings: The Return Of The King,Max,Langganan
 The Lord Of The Rings: The Return Of The King,Apple TV,Langganan
-The Lord Of The Rings: The Return Of The King,Google Play Film & TV,Langganan
 Schindler'S List,Amazon Prime Video,Langganan
 Pulp Fiction,Netflix,Langganan
 Pulp Fiction,Apple TV,Langganan
+The Lord Of The Rings: The Fellowship Of The Ring,Max,Langganan
 The Lord Of The Rings: The Fellowship Of The Ring,Amazon Prime Video,Langganan
 The Lord Of The Rings: The Fellowship Of The Ring,Google Play Film & TV,Langganan
 The Lord Of The Rings: The Fellowship Of The Ring,Apple TV,Langganan
 "The Good, The Bad And The Ugly",Apple TV,"25.000,00"
 Forrest Gump,Apple TV,"25.000,00"
+The Lord Of The Rings: The Two Towers,Max,Langganan
 The Lord Of The Rings: The Two Towers,Amazon Prime Video,Langganan
 The Lord Of The Rings: The Two Towers,Apple TV,Langganan
 The Lord Of The Rings: The Two Towers,Google Play Film & TV,Langganan
 Fight Club,Not Available,Not Available
-Inception,Apple TV,"25.000,00"
-Inception,Google Play Film & TV,"25.000,00"
+Inception,Max,Langganan
+Inception,Apple TV,Langganan
+Inception,Google Play Film & TV,Langganan
 Star Wars: Episode V - The Empire Strikes Back,Not Available,Not Available
-The Matrix,Google Play Film & TV,"25.000,00"
-The Matrix,Apple TV,"25.000,00"
+The Matrix,Max,Langganan
+The Matrix,Google Play Film & TV,Langganan
+The Matrix,Apple TV,Langganan
 Goodfellas,Netflix,Langganan
+Goodfellas,Max,Langganan
 Goodfellas,Google Play Film & TV,Langganan
 Goodfellas,Apple TV,Langganan
 One Flew Over The Cuckoo'S Nest,Not Available,Not Available
-Interstellar,Apple TV,"25.000,00"
-Interstellar,Google Play Film & TV,"25.000,00"
+Interstellar,Max,Langganan
+Interstellar,Apple TV,Langganan
+Interstellar,Google Play Film & TV,Langganan
 Se7En,Netflix,Langganan
+Se7En,Max,Langganan
 Se7En,Apple TV,Langganan
 It'S A Wonderful Life,Not Available,Not Available
 Seven Samurai,Not Available,Not Available
@@ -55,8 +63,9 @@ Spirited Away,Netflix,Langganan
 The Pianist,Not Available,Not Available
 Parasite,iQIYI,Langganan
 Psycho,Netflix,Langganan
-Gladiator,Apple TV,"25.000,00"
-Gladiator,Google Play Film & TV,"25.000,00"
+Gladiator,Max,Langganan
+Gladiator,Apple TV,Langganan
+Gladiator,Google Play Film & TV,Langganan
 The Lion King,Not Available,Not Available
 The Departed,Apple TV,"25.000,00"
 The Departed,Google Play Film & TV,"25.000,00"
@@ -67,15 +76,17 @@ Grave Of The Fireflies,Netflix,Langganan
 Whiplash,Not Available,Not Available
 American History X,Google Play Film & TV,"28.000,00"
 Léon: The Professional,Not Available,Not Available
-The Prestige,Apple TV,"25.000,00"
+The Prestige,Max,Langganan
+The Prestige,Apple TV,Langganan
 Harakiri,Not Available,Not Available
 Casablanca,Google Play Film & TV,"25.000,00"
 Casablanca,Apple TV,"25.000,00"
 The Usual Suspects,Not Available,Not Available
 The Intouchables,Not Available,Not Available
 Cinema Paradiso,Not Available,Not Available
-Dune: Part Two,Apple TV,"29.000,00"
-Dune: Part Two,Google Play Film & TV,"29.000,00"
+Dune: Part Two,Max,Langganan
+Dune: Part Two,Apple TV,Langganan
+Dune: Part Two,Google Play Film & TV,Langganan
 Modern Times,Not Available,Not Available
 Alien,Not Available,Not Available
 Rear Window,Not Available,Not Available
@@ -93,18 +104,21 @@ The Lives Of Others,Not Available,Not Available
 Sunset Boulevard,Google Play Film & TV,"25.000,00"
 Avengers: Infinity War,Not Available,Not Available
 Paths Of Glory,Apple TV,"25.000,00"
+Spider-Man: Into The Spider-Verse,Max,Langganan
 Spider-Man: Into The Spider-Verse,Vidio,Langganan
 Spider-Man: Into The Spider-Verse,Google Play Film & TV,Langganan
 Spider-Man: Into The Spider-Verse,Apple TV,Langganan
 Witness For The Prosecution,Apple TV,"25.000,00"
-The Shining,Apple TV,"25.000,00"
+The Shining,Max,Langganan
+The Shining,Apple TV,Langganan
 The Great Dictator,Not Available,Not Available
 Aliens,Not Available,Not Available
 Inglourious Basterds,Amazon Prime Video,Langganan
 Inglourious Basterds,Apple TV,Langganan
 Inglourious Basterds,Google Play Film & TV,Langganan
-The Dark Knight Rises,Apple TV,"25.000,00"
-The Dark Knight Rises,Google Play Film & TV,"25.000,00"
+The Dark Knight Rises,Max,Langganan
+The Dark Knight Rises,Apple TV,Langganan
+The Dark Knight Rises,Google Play Film & TV,Langganan
 Coco,Not Available,Not Available
 Amadeus,Apple TV,"25.000,00"
 Toy Story,Not Available,Not Available
@@ -114,12 +128,14 @@ American Beauty,Google Play Film & TV,"25.000,00"
 American Beauty,Apple TV,"25.000,00"
 Avengers: Endgame,Not Available,Not Available
 Das Boot,Not Available,Not Available
-Good Will Hunting,Apple TV,"25.000,00"
+Good Will Hunting,Max,Langganan
+Good Will Hunting,Apple TV,Langganan
 Braveheart,Not Available,Not Available
 Princess Mononoke,Netflix,Langganan
 Your Name.,Apple TV,"29.000,00"
-Joker,Apple TV,"25.000,00"
-Joker,Google Play Film & TV,"25.000,00"
+Joker,Max,Langganan
+Joker,Apple TV,Langganan
+Joker,Google Play Film & TV,Langganan
 High And Low,Netflix,Langganan
 3 Idiots,Apple TV,"25.000,00"
 Once Upon A Time In America,Not Available,Not Available
@@ -155,8 +171,9 @@ M,Not Available,Not Available
 Vertigo,Not Available,Not Available
 Heat,Vidio,Langganan
 Full Metal Jacket,Google Play Film & TV,"28.000,00"
-Oppenheimer,Apple TV,"25.000,00"
-Oppenheimer,Google Play Film & TV,"25.000,00"
+Oppenheimer,Max,Langganan
+Oppenheimer,Apple TV,Langganan
+Oppenheimer,Google Play Film & TV,Langganan
 Up,Not Available,Not Available
 Amélie,Not Available,Not Available
 A Clockwork Orange,Not Available,Not Available
@@ -164,9 +181,9 @@ To Kill A Mockingbird,Not Available,Not Available
 A Separation,Not Available,Not Available
 The Sting,Not Available,Not Available
 Die Hard,Not Available,Not Available
-Like Stars On Earth,Not Available,Not Available
 Indiana Jones And The Last Crusade,Google Play Film & TV,"25.000,00"
 Indiana Jones And The Last Crusade,Apple TV,"25.000,00"
+Like Stars On Earth,Not Available,Not Available
 Metropolis,Not Available,Not Available
 Snatch,Vidio,Langganan
 Snatch,Apple TV,Langganan
@@ -181,6 +198,7 @@ Taxi Driver,Google Play Film & TV,"25.000,00"
 Dangal,Not Available,Not Available
 The Wolf Of Wall Street,Not Available,Not Available
 Batman Begins,Netflix,Langganan
+Batman Begins,Max,Langganan
 Batman Begins,Apple TV,Langganan
 Batman Begins,Google Play Film & TV,Langganan
 For A Few Dollars More,Apple TV,"25.000,00"
@@ -191,9 +209,8 @@ The Truman Show,Apple TV,"25.000,00"
 Judgment At Nuremberg,Not Available,Not Available
 The Kid,Not Available,Not Available
 The Father,Apple TV,"25.000,00"
-Shutter Island,Google Play Film & TV,"25.000,00"
 Shutter Island,Apple TV,"25.000,00"
-All About Eve,Not Available,Not Available
+All About Eve,Netflix,Langganan
 There Will Be Blood,Not Available,Not Available
 Jurassic Park,Amazon Prime Video,Langganan
 Jurassic Park,Vidio,Langganan
@@ -228,8 +245,9 @@ Chinatown,Not Available,Not Available
 The Secret In Their Eyes,Not Available,Not Available
 "Lock, Stock And Two Smoking Barrels",Not Available,Not Available
 Inside Out,Not Available,Not Available
-V For Vendetta,Google Play Film & TV,"25.000,00"
-V For Vendetta,Apple TV,"25.000,00"
+V For Vendetta,Max,Langganan
+V For Vendetta,Google Play Film & TV,Langganan
+V For Vendetta,Apple TV,Langganan
 "Three Billboards Outside Ebbing, Missouri",Not Available,Not Available
 Raging Bull,Apple TV,"25.000,00"
 Raging Bull,Google Play Film & TV,"25.000,00"
@@ -246,11 +264,13 @@ Spider-Man: No Way Home,Netflix,Langganan
 Spider-Man: No Way Home,Google Play Film & TV,Langganan
 Spider-Man: No Way Home,Apple TV,Langganan
 Gran Torino,Google Play Film & TV,"28.000,00"
-Harry Potter And The Deathly Hallows: Part 2,Google Play Film & TV,"25.000,00"
-Harry Potter And The Deathly Hallows: Part 2,Apple TV,"25.000,00"
+Harry Potter And The Deathly Hallows: Part 2,Max,Langganan
+Harry Potter And The Deathly Hallows: Part 2,Google Play Film & TV,Langganan
+Harry Potter And The Deathly Hallows: Part 2,Apple TV,Langganan
 Million Dollar Baby,Not Available,Not Available
 My Neighbor Totoro,Netflix,Langganan
 Mad Max: Fury Road,Netflix,Langganan
+Mad Max: Fury Road,Max,Langganan
 Mad Max: Fury Road,Apple TV,Langganan
 Ben-Hur,Apple TV,"25.000,00"
 Children Of Heaven,Apple TV,"25.000,00"
@@ -304,8 +324,8 @@ The Passion Of Joan Of Arc,Not Available,Not Available
 The Best Years Of Our Lives,Not Available,Not Available
 The Exorcist,Google Play Film & TV,"25.000,00"
 The Exorcist,Apple TV,"25.000,00"
-A Man Escaped,Not Available,Not Available
 Rush,Not Available,Not Available
+A Man Escaped,Not Available,Not Available
 The Incredibles,Not Available,Not Available
 The Wizard Of Oz,Google Play Film & TV,"25.000,00"
 The Wizard Of Oz,Apple TV,"25.000,00"
