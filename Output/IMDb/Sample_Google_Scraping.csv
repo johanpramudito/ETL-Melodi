@@ -1,5 +1,5 @@
-,Title,Streaming On,Price
-0,The godfather,Netflix,Langganan
-1,The godfather,Vidio,Langganan
-2,The godfather,Google Play Film & TV,"Dari Rp 25.000,00"
-3,The godfather,Apple TV,"Dari Rp 25.000,00"
+,Title,Streaming On,Price,IMDb_URL
+0,The godfather,Netflix,Subscription,
+1,The godfather,Vidio,Subscription,
+2,The godfather,Google Play Movies & TV,"Rp 25.000,00",
+3,The godfather,Apple TV,"Rp 25.000,00",
